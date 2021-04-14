@@ -1,1 +1,3 @@
-# Curso de JavaScript do Professor Gustava Guanabara
+# Curso de JavaScript 
+  
+  Aulas com o professor Gustavo Guanabara
